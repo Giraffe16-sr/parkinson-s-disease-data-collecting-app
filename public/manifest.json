@@ -1,0 +1,24 @@
+{
+  "name": "파킨슨 보이스 진단기 (Parkinson Voice Diagnostic)",
+  "short_name": "파킨슨보이스",
+  "description": "파킨슨병 환자를 위한 지속 발성 및 문장 낭독 수집 관리 PWA 앱",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#2563eb",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Parkinson Voice Recorder",
+  "description": "A diagnostic recording tool for Parkinson's patients to record sustained phonation and reading passages.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
